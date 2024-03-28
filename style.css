@@ -9,9 +9,9 @@ h1{
 }
 button{
     color: red;
-    background-color: yellow;
+    background-color: rgb(00,255, 255)
 }
 
 body{
-    background-color: rgb(255, 200, 0);
+    background-color: #00ffff;
 }
