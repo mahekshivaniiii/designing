@@ -1,3 +1,12 @@
+#one{
+    font-weight: 100;
+}
+#two{
+    font-weight: normal;
+}
+#Three{
+     font-weight: 900;
+}
 p{
 
     font-weight: bold;
