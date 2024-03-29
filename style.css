@@ -1,18 +1,3 @@
 #one{
-    font-weight: 100;
-}
-#two{
-    font-weight: normal;
-}
-#Three{
-     font-weight: 900;
-}
-#paraOne{
-    font-family: Arial;
-}
-#paraTwo{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-a{
-    text-decoration: none;
+    font-size: 34px;
 }
