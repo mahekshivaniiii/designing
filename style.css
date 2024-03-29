@@ -7,9 +7,11 @@
 #Three{
      font-weight: 900;
 }
-p{
-
-    font-weight: bold;
+#paraOne{
+    font-family: Arial;
+}
+#paraTwo{
+    font-family: 'Segoe UI';
 }
 a{
     text-decoration: none;
