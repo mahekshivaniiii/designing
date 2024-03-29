@@ -1,5 +1,9 @@
 p{
-    text-align:center;
+    text-align:end;
+    text-decoration:double;
 }
 
 
+a{
+    text-decoration: none;
+}
