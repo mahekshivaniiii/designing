@@ -1,10 +1,14 @@
 #box{
-    background-color: blue;
+    background-color: rgb(133, 133, 168);
 }
 
 *{
-    background-color: rgb(223, 216, 216);
+    background-color: rgb(238, 141, 141);
 }
 .heading{
     color: red;
+}
+
+button{
+    background-color: green;
 }
