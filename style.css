@@ -1,3 +1,9 @@
 #one{
-    font-size: 34px;
+    
+    line-height: 19px;
 }
+
+#three{
+    line-height: normal;
+}
+
