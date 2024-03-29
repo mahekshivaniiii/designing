@@ -1,9 +1,7 @@
 p{
-    text-align:end;
-    text-decoration: double underline wavy rebeccapurple ;
+
+    font-weight: bold;
 }
-
-
 a{
     text-decoration: none;
 }
