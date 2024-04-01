@@ -2,9 +2,6 @@ div{
     height: 100px;
     background-color: pink;
     width: 100px;
-   /* border-width: 5px;
-    border-color: rgba(182, 209, 196, 0.479);
-    border-style: solid; */
     text-align: end;
     border: 5px inset rgba(5, 31, 18, 0.479);
 }
