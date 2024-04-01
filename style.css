@@ -3,6 +3,6 @@ div{
     background-color: pink;
     width: 100px;
     border: 5px inset rgba(5, 31, 18, 0.479);
-    border-radius: 15px;
+    border-radius: 0px;
 }
 
