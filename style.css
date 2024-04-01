@@ -5,16 +5,7 @@ div{
    /* border-width: 5px;
     border-color: rgba(182, 209, 196, 0.479);
     border-style: solid; */
-    text-align: start;
+    text-align: end;
     border: 5px inset rgba(5, 31, 18, 0.479);
 }
 
-h1{
-   width: 200px;
-   background-color: aquamarine;    
-    /* border-width: 10px;
-   border-color: goldenrod;
-   border-style:outset; */
-   border: 10px outset gold;
-   text-align: center;
-}
