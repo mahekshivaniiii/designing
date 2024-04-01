@@ -2,7 +2,7 @@ div{
     height: 100px;
     background-color: pink;
     width: 100px;
-    text-align: end;
     border: 5px inset rgba(5, 31, 18, 0.479);
+    border-radius: 50%;
 }
 
