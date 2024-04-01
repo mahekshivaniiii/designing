@@ -2,9 +2,15 @@ div{
     height: 100px;
     background-color: pink;
     width: 100px;
+    border-width: 2px;
+    border-color: rgba(182, 209, 196, 0.479);
+    border-style: solid;
 }
 
 h1{
    width: 200px;
    background-color: aquamarine;    
+   border-width: 10px;
+   border-color: goldenrod;
+   border-style:outset;
 }
