@@ -4,4 +4,8 @@ font-weight range
 <h2>line - height normal = 18px</h2>
 
 # 15 px for border edges to make it rounded shape
-# 50 percent for circle if its is square shape
+# 50 percent for circle if its is square 
+
+
+
+# donegit 
