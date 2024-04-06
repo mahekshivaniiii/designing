@@ -6,6 +6,9 @@ font-weight range
 # 15 px for border edges to make it rounded shape
 # 50 percent for circle if its is square 
 
+# inline elements that space that is required to them..
+
+# block elements take all over the space or extra space 
 
 
 # donegit 
