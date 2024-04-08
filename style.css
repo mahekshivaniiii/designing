@@ -5,3 +5,7 @@ div{
     margin: 25px;
     padding: 25px;
 }
+
+#div2{
+    display:none ;
+}
