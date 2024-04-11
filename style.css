@@ -1,15 +1,18 @@
 #box1{
     height: 100px;
-    width: 50px;
+    width: 100px;
     background-color: green;
+    font-size: 10px;
 }
 
 #box2{
-    height: 50px;
-    width: 40%;
+    height: 100px;
     background-color:yellow;
-    margin: 40%;
-    padding: 30%;
-    border: 10% solid rgb(10, 10, 10);
+    margin: 0%;
+    /* padding: 30%; */
+    /* border: 10% solid rgb(10, 10, 10); */
+    font-size: 2em;
+    width: 5em;
+    
     
 }
