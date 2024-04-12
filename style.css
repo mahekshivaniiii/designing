@@ -6,13 +6,13 @@
 }
 
 #box2{
-    height: 80px;
+    height: 80vh;
     background-color:yellow;
     
     /* padding: 30%; */
     /* border: 10% solid rgb(10, 10, 10); */
     font-size: 2em;
-    width: 5em;
+    width: 50vw;
     
     
 }

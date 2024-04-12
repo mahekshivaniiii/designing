@@ -16,3 +16,7 @@ font-weight range
 # when we write em on width it depends on the font size of that element 
 
 # rem depends on the root element body is the root tag 
+
+# vh height of the screen view height
+
+# vw width of the screen view width
