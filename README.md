@@ -10,3 +10,9 @@ font-weight range
 
 # block elements take all over the space or extra space 
 
+
+# when we write em on font size it depends on the font size of the parent  tag
+
+# when we write em on width it depends on the font size of that element 
+
+# rem depends on the root element body is the root tag 
