@@ -1,18 +1,8 @@
-#box1{
+div{
     height: 100px;
     width: 100px;
-    background-color: green;
-    font-size: 10px;
-}
-
-#box2{
-    height: 80vh;
-    background-color:yellow;
-    
-    /* padding: 30%; */
-    /* border: 10% solid rgb(10, 10, 10); */
-    font-size: 2em;
-    width: 50vw;
-    
-    
+    background-color: aqua;
+    border: 2px solid black;
+    margin: 3px;
+    text-align: center;
 }
