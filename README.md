@@ -20,3 +20,5 @@ font-weight range
 # vh height of the screen view height
 
 # vw width of the screen view width
+
+# by default the postion of an element is static
