@@ -6,3 +6,14 @@ div{
     
     display: inline-block;
 }
+
+#box1{
+    position: static;
+}
+
+#box2{
+    position: relative;
+    
+    bottom: 400px;
+    right: 100px;
+}
