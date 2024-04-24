@@ -8,8 +8,9 @@ div{
 }
 
 #box1{
-    position: static;
+    position: relative;
     background-color: aqua;
+    top: 10px;
 }
 
 #box2{
@@ -20,11 +21,13 @@ div{
 #box3{
     position: absolute;
     background-color: brown;
-    top: 10px;
-    left: 20px;
+
+    
 }
 
 
 #box4{
     background-color: antiquewhite;
+    position: fixed;
+    top: 0;
 }

@@ -24,3 +24,9 @@ font-weight range
 # by default the postion of an element is static
 
 # top left bottom right does not work with static postion
+
+
+# absolute = ancestor which is closest to the element 
+
+
+# fixed = browser
