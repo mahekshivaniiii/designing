@@ -22,3 +22,5 @@ font-weight range
 # vw width of the screen view width
 
 # by default the postion of an element is static
+
+# top left bottom right does not work with static postion
