@@ -19,8 +19,9 @@ div{
 }
 
 #box3{
-    position: absolute;
+    position: sticky;
     background-color: brown;
+    top: 10px;
 
     
 }
