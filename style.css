@@ -16,10 +16,12 @@ div{
 #box2{
     position: relative;
     background-color: pink;
+    left: 10px;
+    z-index: -1;
 }
 
 #box3{
-    position: sticky;
+    position: relative;
     background-color: brown;
     top: 10px;
 

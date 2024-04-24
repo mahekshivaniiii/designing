@@ -30,3 +30,9 @@ font-weight range
 
 
 # fixed = browser
+
+
+# by default the z-index is 0
+
+
+# z-index used for overlapping if the element has +ve index then it has more preference
