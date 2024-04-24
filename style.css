@@ -9,9 +9,22 @@ div{
 
 #box1{
     position: static;
+    background-color: aqua;
 }
 
 #box2{
     position: relative;
+    background-color: pink;
+}
 
+#box3{
+    position: absolute;
+    background-color: brown;
+    top: 10px;
+    left: 20px;
+}
+
+
+#box4{
+    background-color: antiquewhite;
 }
