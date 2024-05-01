@@ -21,7 +21,7 @@ div{
 }
 
 #box3{
-    position: relative;
+    position: sticky;
     background-color: brown;
     top: 10px;
 
