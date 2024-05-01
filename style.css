@@ -1,42 +1,9 @@
 div{
-    height: 100px;
-    width: 100px;
-    background-color: aqua;
-    border: 2px solid black;
-    
-    display: inline-block;
-}
-body{
+    position:fixed;
     background-image: url("dog_phtoto.jpg");
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-
-#box1{
-    
-    background-color: aqua;
-    /* height: 500px; */
-    background-image: url("dog_phtoto.jpg");
-    background-size: auto;
-    
-}
-
-#box2{
-    
-    background-color: pink;
-    
-}
-
-#box3{
-    
-    background-color: brown;
-    
-
-    
-}
-
-
-#box4{
-    background-color: rgb(83, 175, 106);
-    
+    right: 0px;
+    top: 0px;
+    height: 50px;
+    width: 50px;
+    background-size: cover;
 }
