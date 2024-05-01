@@ -6,31 +6,37 @@ div{
     
     display: inline-block;
 }
+body{
+    background-image: url("dog_phtoto.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
 
 #box1{
-    position: relative;
+    
     background-color: aqua;
-    top: 10px;
+    /* height: 500px; */
+    background-image: url("dog_phtoto.jpg");
+    background-size: auto;
+    
 }
 
 #box2{
-    position: relative;
+    
     background-color: pink;
-    left: 10px;
-    z-index: -1;
+    
 }
 
 #box3{
-    position: sticky;
+    
     background-color: brown;
-    top: 10px;
+    
 
     
 }
 
 
 #box4{
-    background-color: antiquewhite;
-    position: fixed;
-    top: 0;
+    background-color: rgb(83, 175, 106);
+    
 }
