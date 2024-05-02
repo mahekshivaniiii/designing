@@ -36,3 +36,6 @@ font-weight range
 
 
 # z-index used for overlapping if the element has +ve index then it has more preference
+
+
+# By default flex direction is row 
