@@ -13,7 +13,7 @@ div{
     height: 300px;
     width: 700px;
     display: flex;
-    flex-direction: column-reverse;
+    flex-direction: row;
     justify-content: center;
 }
 
