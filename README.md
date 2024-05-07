@@ -39,3 +39,6 @@ font-weight range
 
 
 # By default flex direction is row 
+
+
+# align self has the highest priority if it is written before and after 
