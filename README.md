@@ -42,3 +42,7 @@ font-weight range
 
 
 # align self has the highest priority if it is written before and after 
+
+# media query 
+  we use max = min
+  min = max
