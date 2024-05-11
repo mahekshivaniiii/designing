@@ -12,19 +12,19 @@ div{
     }
 }
 
-
+/* 
 @media(max-width:400px){
     div{
         background-color: rebeccapurple;
     }
-}
+} */
 
 
 /* @media (max-widht:500px) */
 
 
-@media (min-width : 200px) , (max-width: 400px){
-  .seconddiv{
+@media (min-width : 200px) and (max-width: 400px){
+  div{
     background-color: blue;
     border:3px solid black;
   }
