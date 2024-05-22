@@ -3,8 +3,11 @@ div{
     width: 100px;
     background-color: aquamarine;
     border: 2px solid black;
+    transition: 3s;
+    transition-timing-function: steps(5);
 }
 
-div:focus{
-    background-color: bisque;
+div:hover{
+    background-color: rgb(170, 113, 44);
+    font-size: 20px;
 }
