@@ -4,7 +4,8 @@ div{
     background-color: aquamarine;
     border: 2px solid black;
     transition: 3s;
-    transition-timing-function: steps(5);
+    transition-timing-function:ease-in-out;
+    transition-delay: 1s;
 }
 
 div:hover{
