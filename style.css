@@ -4,3 +4,7 @@ div{
     background-color: aquamarine;
     border: 2px solid black;
 }
+
+div:focus{
+    background-color: bisque;
+}
