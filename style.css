@@ -9,10 +9,12 @@ div{
     /* transition: all 1s ease-in 1s; */
     /* transform: rotate(4deg);
      */
-      rotate: x 180deg;
+      /* rotate: x 180deg; */
+      position: absolute;
     }
 
 div:hover{
     background-color: rgb(170, 113, 44);
     font-size: 20px;
+    transform: scaleY(2);
 }
