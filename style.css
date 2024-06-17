@@ -3,9 +3,11 @@ div{
     width: 100px;
     background-color: aquamarine;
     border: 2px solid black;
-    transition: 3s;
-    transition-timing-function:ease-in-out;
-    transition-delay: 1s;
+    /* transition: 3s; */
+    /* transition-timing-function:ease-in-out; */
+    /* transition-delay: 1s; */
+    /* transition: all 1s ease-in 1s; */
+    transform: rotate(4deg);
 }
 
 div:hover{
