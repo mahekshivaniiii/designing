@@ -7,8 +7,10 @@ div{
     /* transition-timing-function:ease-in-out; */
     /* transition-delay: 1s; */
     /* transition: all 1s ease-in 1s; */
-    transform: rotate(4deg);
-}
+    /* transform: rotate(4deg);
+     */
+      rotate: x 180deg;
+    }
 
 div:hover{
     background-color: rgb(170, 113, 44);
