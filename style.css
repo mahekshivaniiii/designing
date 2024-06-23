@@ -2,7 +2,7 @@ div{
     height: 100px;
     width: 100px;
     background-color: aquamarine;
-    border-radius: 50%;
+    /* border-radius: ; */
     border-color: black;
     border-style: double;
     /* transition: 3s; */
@@ -22,11 +22,17 @@ div{
       /* animation-iteration-count: infinite; */
       /* animation-direction: alternate; */
 
-      animation: colorAnimate 2s ease-in 0s infinite reverse;
+      animation: colorAnimate 2s ease-in 2s infinite normal;
     }
 @keyframes colorAnimate {
-  from{transform:translateX(-20px);}
-  to{transform:translateX(100px);}    
+  from{
+    transform:translateX(-20px);
+    background-color: red;
+}
+  to{
+    transform:translateX(100px);
+    background-color: yellow;
+}    
 }
 /* div:hover{ */
     /* background-color: rgb(170, 113, 44); */
