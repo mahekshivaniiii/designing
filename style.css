@@ -2,7 +2,9 @@ div{
     height: 100px;
     width: 100px;
     background-color: aquamarine;
-    border: 2px solid black;
+    border-radius: 50%;
+    border-color: black;
+    border-style: double;
     /* transition: 3s; */
     /* transition-timing-function:ease-in-out; */
     /* transition-delay: 1s; */
@@ -14,8 +16,18 @@ div{
       /* top: 100px; */
       /* left: 100px; */
       /* transition: all 1s ease-in-out 1s; */
-    }
+      /* animation-name: colorAnimate; */
+      /* animation-duration: 1s; */
+      /* animation-delay: 2s; */
+      /* animation-iteration-count: infinite; */
+      /* animation-direction: alternate; */
 
+      animation: colorAnimate 2s ease-in 0s infinite reverse;
+    }
+@keyframes colorAnimate {
+  from{transform:translateX(-20px);}
+  to{transform:translateX(100px);}    
+}
 /* div:hover{ */
     /* background-color: rgb(170, 113, 44); */
     /* font-size: 20px */
