@@ -46,3 +46,9 @@ font-weight range
 # media query 
   we use max = min
   min = max
+
+
+
+
+# skew Property
+strech the element from both the side 
