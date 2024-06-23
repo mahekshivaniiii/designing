@@ -19,5 +19,7 @@ div{
 div:hover{
     background-color: rgb(170, 113, 44);
     /* font-size: 20px */
-    transform: translate(20px,-80px)
+    /* transform: translate(20px,-80px)
+     */
+     transform :skew(180deg);
 }
