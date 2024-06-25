@@ -25,11 +25,14 @@ div{
       animation: colorAnimate 2s ease-in 2s infinite normal;
     }
 @keyframes colorAnimate {
-  from{
+  0%{
     transform:translateX(-20px);
     background-color: red;
 }
-  to{
+  50%{
+    background-color: blue;
+  }
+  100%{
     transform:translateX(100px);
     background-color: yellow;
 }    
