@@ -10,3 +10,15 @@
     background-color: #0F1111;
     color: white;
 }
+.nav-logo{
+    height: 50px; 
+    width: 100px;
+}
+
+.logo{
+    background-image: url("amazon_logo.png");
+     height: 50px;
+      width: 100px;
+     background-size: cover;
+
+    }
