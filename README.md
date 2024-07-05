@@ -52,3 +52,7 @@ font-weight range
 
 # skew Property
 strech the element from both the side 
+
+
+# border box
+means hum jitni bhi height and width set karein utne main hi sab kuch aajye usese bhar na jaye
