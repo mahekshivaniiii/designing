@@ -9,6 +9,7 @@
     height: 60px;
     background-color: #0F1111;
     color: white;
+    display: flex;
 }
 .nav-logo{
     height: 50px; 
@@ -21,4 +22,20 @@
       width: 100px;
      background-size: cover;
 
-    }
+}
+
+.border{
+    border:2px solid transparent;
+}
+
+.border:hover{
+    border: 2px solid white;
+}
+
+.add-first{
+     color: #CCCCCC;
+}
+
+.add-second{
+    color: #ffffff;
+}
