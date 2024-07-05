@@ -39,3 +39,7 @@
 .add-second{
     color: #ffffff;
 }
+
+.address-icon{
+    display: flex;
+}
